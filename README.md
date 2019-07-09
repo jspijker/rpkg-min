@@ -1,6 +1,9 @@
 # The Amazing rpkgMin
 
 This package is the bear
+
+Really.
+
 ---
 
 [Jumping Rivers](https://jumpingrivers.com) are RStudio Certified partners. We are currently developing
